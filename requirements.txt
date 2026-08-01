@@ -1,0 +1,23 @@
+# Core data handling
+pandas>=2.0
+numpy>=1.24
+
+# Database
+# SQLite is included with Python
+
+# Data acquisition
+requests>=2.31
+
+# Visualization / dashboard
+plotly>=5.18
+streamlit>=1.32
+
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.29
+
+# Excel support (data dictionary / small exports)
+openpyxl>=3.1
+
+# Testing
+pytest>=8.0

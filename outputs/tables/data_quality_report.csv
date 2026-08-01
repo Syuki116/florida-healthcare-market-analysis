@@ -1,0 +1,16 @@
+check,value,status
+final_row_count,67,PASS
+unique_fips,67,PASS
+duplicate_fips,0,PASS
+missing_county_fips,0,PASS
+missing_county_name,0,PASS
+missing_population,0,PASS
+missing_population_2022,0,PASS
+missing_population_2023,0,PASS
+missing_population_growth_rate,0,PASS
+missing_percent_age_65_plus,0,PASS
+missing_diabetes_prevalence,0,PASS
+missing_primary_care_physicians,2,REVIEW
+missing_pcp_per_10000,2,REVIEW
+missing_other_pcp_per_10000,0,PASS
+missing_median_household_income,0,PASS
