@@ -1,6 +1,6 @@
 # Florida Healthcare Market Opportunity Analysis
 
-A portfolio project that screens Florida's 67 counties for further outpatient-clinic market research using Python, SQL, scenario scoring, and an interactive Streamlit dashboard.
+A portfolio project that screens Florida's 67 counties for further outpatient-clinic market research using Python, SQL, scenario scoring, and interactive dashboards built with Streamlit, Plotly, and Tableau.
 
 > **Important:** This is a transparent market-screening exercise, not a complete site-selection study or profitability forecast.
 
@@ -14,12 +14,24 @@ Under the Balanced scenario, the top three eligible counties are **Sumter, St. L
 
 ![Top 10 counties](outputs/figures/top10_balanced.png)
 
+## Interactive Tableau Dashboard
+
+Explore the interactive dashboard to compare Florida counties across three market-opportunity scenarios:
+
+- Balanced
+- Healthcare Need Focus
+- Growth Focus
+
+**[View the interactive Tableau dashboard →](粘贴你的Tableau Public链接)**
+
+![Florida Healthcare Market Opportunity Dashboard](docs/tableau_dashboard.png)
+
 ## Skills Demonstrated
 
 - Python data cleaning, joins, KPI engineering, validation, and reproducible pipelines
 - SQL data-quality checks, CTEs, CASE logic, aggregation, median comparisons, and window-function ranking
 - Transparent percentile scoring and three-scenario sensitivity analysis
-- Streamlit and Plotly dashboard development
+- Executive dashboard development using Tableau, Streamlit, and Plotly
 - Executive recommendations and limitations written for a non-technical audience
 
 ## Data
