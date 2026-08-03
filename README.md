@@ -22,7 +22,7 @@ Explore the interactive dashboard to compare Florida counties across three marke
 - Healthcare Need Focus
 - Growth Focus
 
-**[View the interactive Tableau dashboard →](粘贴你的Tableau Public链接)**
+**[View the interactive Tableau dashboard →](https://public.tableau.com/app/profile/xinyu.shen3762/viz/FloridaHealthcareMarketOpportunityDashboard/Dashboard1?publish=yes)**
 
 ![Florida Healthcare Market Opportunity Dashboard](docs/tableau_dashboard.png)
 
